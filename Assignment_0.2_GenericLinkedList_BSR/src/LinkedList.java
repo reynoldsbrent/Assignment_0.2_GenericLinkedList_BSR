@@ -1,5 +1,6 @@
 
 /**
+ * This class is a linkedlist
  * @author brentreynolds
  *
  * @version 9/8/2022 Fall 2022
@@ -24,7 +25,7 @@ public class LinkedList<T> {
 	} // end constructor
 	
 	/**
-	 * @return returns true is the list is empty
+	 * @return returns true if the list is empty
 	 */
 	public boolean isEmpty()
 	{
